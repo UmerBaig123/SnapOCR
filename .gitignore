@@ -6,3 +6,7 @@ ocr_temp
 /src/build
 dist
 /src/ScreenPinKit.spec
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
